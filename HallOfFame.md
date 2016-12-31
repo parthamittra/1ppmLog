@@ -149,4 +149,9 @@ Add your projects to the end of this List!
 |2017/01 |[ViewMe](https://github.com/TestMarrko/ViewMe)        | View any type of file on OS X (Starting with pictures). | Planning |
 
 
-## You?
+## [parthamittra](https://github.com/parthamittra)
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2017/01 |[RustPaint](https://github.com/parthamittra/RustPaint) | Static Site Generator written in Rust | Planning |
+
+
