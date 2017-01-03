@@ -151,7 +151,7 @@ Add your projects to the end of this List!
 
 ## [parthamittra](https://github.com/parthamittra)
 |Month   |Project                                               |Description             | Status                |
-|--------|------------------------------------------------------|------------------------------------------------|----------------|
-|2017/01 |[RustPaint](https://github.com/parthamittra/RustPaint) | Static Site Generator written in Rust | Planning |
+|--------|------------------------------------------------------|-------------------------------------- | Planning |
+|2017/01 |[RustRock](https://github.com/parthamittra/RustRock) | Templating engine written in Rust | Planning |
 
 
