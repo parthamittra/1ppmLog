@@ -151,7 +151,6 @@ Add your projects to the end of this List!
 
 ## [parthamittra](https://github.com/parthamittra)
 |Month   |Project                                               |Description             | Status                |
-|--------|------------------------------------------------------|-------------------------------------- | Planning |
-|2017/01 |[RustRock](https://github.com/parthamittra/RustRock) | Templating engine written in Rust | Planning |
-
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2017/01 |[RustRock](https://github.com/parthamittra/RustRock)        | template engine written in Rust | Planning |
 
